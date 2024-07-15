@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|c:\\users\\colbu\\workspace\\csharp\\reductio\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|c:\\users\\colbu\\workspace\\csharp\\reductio\\producttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|solutionrelative:producttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|c:\\users\\colbu\\workspace\\csharp\\reductio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B22045D-AD7A-4773-A0FF-3B971AF31ED8}|Reductio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTypes.cs",
+              "DocumentMoniker": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\ProductTypes.cs",
+              "RelativeDocumentMoniker": "ProductTypes.cs",
+              "ToolTip": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\ProductTypes.cs",
+              "RelativeToolTip": "ProductTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:17:18.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:08:41.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\colbu\\workspace\\csharp\\Reductio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:59:07.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

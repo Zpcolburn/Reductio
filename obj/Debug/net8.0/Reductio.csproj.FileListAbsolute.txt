@@ -1,0 +1,14 @@
+C:\Users\colbu\workspace\csharp\Reductio\bin\Debug\net8.0\Reductio.exe
+C:\Users\colbu\workspace\csharp\Reductio\bin\Debug\net8.0\Reductio.deps.json
+C:\Users\colbu\workspace\csharp\Reductio\bin\Debug\net8.0\Reductio.runtimeconfig.json
+C:\Users\colbu\workspace\csharp\Reductio\bin\Debug\net8.0\Reductio.dll
+C:\Users\colbu\workspace\csharp\Reductio\bin\Debug\net8.0\Reductio.pdb
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.AssemblyInfoInputs.cache
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.AssemblyInfo.cs
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.csproj.CoreCompileInputs.cache
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.dll
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\refint\Reductio.dll
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.pdb
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\Reductio.genruntimeconfig.cache
+C:\Users\colbu\workspace\csharp\Reductio\obj\Debug\net8.0\ref\Reductio.dll
